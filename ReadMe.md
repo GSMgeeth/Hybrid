@@ -1,0 +1,1 @@
+This is a Godot Game built for the itch.io game contest.
